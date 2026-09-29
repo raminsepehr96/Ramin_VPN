@@ -1,0 +1,5 @@
+Jason/
+data/
+*.session
+*.srs
+__pycache__/
