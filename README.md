@@ -310,4 +310,4 @@ Sensitive files such as API keys, session files, and personal data should not be
 
 ## License
 
-No license has been specified for this project yet.
+This project is licensed under the MIT License. See the "LICENSE" (LICENSE) file for details.
