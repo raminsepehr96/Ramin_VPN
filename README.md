@@ -17,8 +17,6 @@
 دستور زیر را اجرا کنید:
 
 ```bash
-pkg update
-pkg install -y curl
 curl -fsSL https://raw.githubusercontent.com/raminsepehr96/Ramin_VPN/main/install.sh | sh
 ```
 
